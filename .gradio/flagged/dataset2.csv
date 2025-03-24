@@ -1,0 +1,103 @@
+image,Processed Image,Detection Results & Song Recommendations,timestamp
+,.gradio\flagged\Processed Image\ebecd7bcca1eee6d12db\image.webp,"Detected emotion: Sad (Confidence: 90.1%)
+Detected emotion: Neutral (Confidence: 57.2%)
+
+Song Recommendations for Sad mood:
+• <a href='https://www.youtube.com/watch?v=UelDrZ1aFeY' target='_blank'>Here Comes the Sun - The Beatles</a>
+• <a href='https://www.youtube.com/watch?v=zaGUr6wzyT8' target='_blank'>Three Little Birds - Bob Marley</a>
+• <a href='https://www.youtube.com/watch?v=d-diB65scQU' target='_blank'>Don't Worry, Be Happy - Bobby McFerrin</a>
+
+Song Recommendations for Neutral mood:
+• <a href='https://www.youtube.com/watch?v=wHr0qGXqXwU' target='_blank'>Perfect Day - Lou Reed</a>
+• <a href='https://www.youtube.com/watch?v=Oextk-If8HQ' target='_blank'>Somewhere Only We Know - Keane</a>
+• <a href='https://www.youtube.com/watch?v=7OqwKfgLpCk' target='_blank'>Sweet Disposition - The Temper Trap</a>
+",2025-03-17 21:54:59.852710
+,.gradio\flagged\Processed Image\83d78a0562ed29f73f55\image.webp,No face detected,2025-03-17 21:57:56.794130
+,.gradio\flagged\Processed Image\a5f453e7d4393489f609\image.webp,"Detected emotion: Sad (Confidence: 55.6%)
+
+Song Recommendations for Sad mood:
+• <a href='https://www.youtube.com/watch?v=9kaCAbIXuyg' target='_blank'>Still Life - BIGBANG</a>
+• <a href='https://www.youtube.com/watch?v=eXBu09fwe3I' target='_blank'>The Truth Untold - BTS</a>
+• <a href='https://www.youtube.com/watch?v=z0zP5r5NlCg' target='_blank'>Love Story - IU</a>
+",2025-03-17 21:59:11.033091
+,.gradio\flagged\Processed Image\00f9db1f5839e932de6e\image.webp,"Detected emotion: Sad (Confidence: 86.5%)
+
+Song Recommendations for Sad mood:
+• <a href='https://www.youtube.com/watch?v=9kaCAbIXuyg' target='_blank'>Still Life - BIGBANG</a>
+• <a href='https://www.youtube.com/watch?v=eXBu09fwe3I' target='_blank'>The Truth Untold - BTS</a>
+• <a href='https://www.youtube.com/watch?v=z0zP5r5NlCg' target='_blank'>Love Story - IU</a>
+",2025-03-17 21:59:56.637995
+,.gradio\flagged\Processed Image\7ae91b9bdd20d8436934\image.webp,"Detected emotion: Happy (Confidence: 37.3%)
+
+Song Recommendations for Happy mood:
+• <a href='https://www.youtube.com/watch?v=c7rCyll5AeY' target='_blank'>Cheer Up - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=Y8JFxS1HlDo' target='_blank'>Love Dive - IVE</a>
+• <a href='https://www.youtube.com/watch?v=js1CtxSY38I' target='_blank'>Attention - NewJeans</a>
+• <a href='https://www.youtube.com/watch?v=H5v3kku4y6Q' target='_blank'>As It Was - Harry Styles</a>
+• <a href='https://www.youtube.com/watch?v=QxXxXxXxXxX' target='_blank'>ပျော်ရွှင်စရာ - ဆိုင်းဦးလှိုင်</a>
+• <a href='https://www.youtube.com/watch?v=QxXxXxXxXxX' target='_blank'>ပျော်ရွှင်စရာ - ထူးအိမ်သင်</a>
+• <a href='https://www.youtube.com/watch?v=QxXxXxXxXxX' target='_blank'>ပျော်ရွှင်စရာ - ဆိုင်တိုက်ဆိုင်</a>
+",2025-03-17 22:06:00.604264
+,.gradio\flagged\Processed Image\697359185b3e0b93c42f\image.webp,"Detected emotion: Sad (Confidence: 93.7%)
+
+Song Recommendations for Sad mood:
+• <a href='https://www.youtube.com/watch?v=9kaCAbIXuyg' target='_blank'>Still Life - BIGBANG</a>
+• <a href='https://www.youtube.com/watch?v=9kaCAbIXuyg' target='_blank'>Last Dance - BIGBANG</a>
+• <a href='https://www.youtube.com/watch?v=9kaCAbIXuyg' target='_blank'>Haru Haru - BIGBANG</a>
+• <a href='https://www.youtube.com/watch?v=9kaCAbIXuyg' target='_blank'>Loser - BIGBANG</a>
+• <a href='https://www.youtube.com/watch?v=9kaCAbIXuyg' target='_blank'>Blue - BIGBANG</a>
+",2025-03-17 22:08:53.578851
+,.gradio\flagged\Processed Image\adb2a2e6e9cb37898a4b\image.webp,"Detected emotion: Happy (Confidence: 52.4%)
+
+Song Recommendations for Happy mood:
+• <a href='https://www.youtube.com/watch?v=c7rCyll5AeY' target='_blank'>Cheer Up - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=i0p1bmr0EmE' target='_blank'>What is Love? - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=V2hlQkVJZhE' target='_blank'>Likey - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=ePpPVE-GGJw' target='_blank'>TT - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=kOHB85vDuow' target='_blank'>Fancy - TWICE</a>
+",2025-03-17 22:11:31.757113
+,.gradio\flagged\Processed Image\8202577964f4bfb0874e\image.webp,"Detected emotion: Happy (Confidence: 90.1%)
+
+Song Recommendations for Happy mood:
+• <a href='https://www.youtube.com/watch?v=c7rCyll5AeY' target='_blank'>Cheer Up - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=i0p1bmr0EmE' target='_blank'>What is Love? - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=V2hlQkVJZhE' target='_blank'>Likey - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=ePpPVE-GGJw' target='_blank'>TT - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=kOHB85vDuow' target='_blank'>Fancy - TWICE</a>
+",2025-03-17 22:12:09.013893
+,.gradio\flagged\Processed Image\baf27719a6804061c88a\image.webp,"Detected emotion: Happy (Confidence: 42.2%)
+
+Song Recommendations for Happy mood:
+• <a href='https://www.youtube.com/watch?v=nfWlot6h_JM' target='_blank'>Shake It Off - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=AgFeZr5ptV8' target='_blank'>22 - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=Hw4ML-p6MyA' target='_blank'>ME! - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=c7rCyll5AeY' target='_blank'>Cheer Up - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=i0p1bmr0EmE' target='_blank'>What is Love? - TWICE</a>
+",2025-03-17 22:14:22.583470
+,.gradio\flagged\Processed Image\d474429cfcc768a2271e\image.webp,"Detected emotion: Angry (Confidence: 45.2%)
+
+Song Recommendations for Angry mood:
+• <a href='https://www.youtube.com/watch?v=3tmd-ClpJxA' target='_blank'>Look What You Made Me Do - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=QcIy9NiNbmo' target='_blank'>Bad Blood - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=QcIy9NiNbmo' target='_blank'>Vigilante Shit - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=IHNzOHi8sJs' target='_blank'>DDU-DU DDU-DU - BLACKPINK</a>
+• <a href='https://www.youtube.com/watch?v=2S24-y0Ij3Y' target='_blank'>Kill This Love - BLACKPINK</a>
+",2025-03-17 22:16:02.469632
+,.gradio\flagged\Processed Image\2ba558ceb2fff1ea9974\image.webp,"Detected emotion: Happy (Confidence: 60.4%)
+
+Song Recommendations for Happy mood:
+• <a href='https://www.youtube.com/watch?v=nfWlot6h_JM' target='_blank'>Shake It Off - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=AgFeZr5ptV8' target='_blank'>22 - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=Hw4ML-p6MyA' target='_blank'>ME! - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=c7rCyll5AeY' target='_blank'>Cheer Up - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=i0p1bmr0EmE' target='_blank'>What is Love? - TWICE</a>
+",2025-03-17 22:18:40.280134
+,.gradio\flagged\Processed Image\89fc6d499839d05cdd8d\image.webp,"Detected emotion: Happy (Confidence: 65.7%)
+
+Song Recommendations for Happy mood:
+• <a href='https://www.youtube.com/watch?v=nfWlot6h_JM' target='_blank'>Shake It Off - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=AgFeZr5ptV8' target='_blank'>22 - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=Hw4ML-p6MyA' target='_blank'>ME! - Taylor Swift</a>
+• <a href='https://www.youtube.com/watch?v=c7rCyll5AeY' target='_blank'>Cheer Up - TWICE</a>
+• <a href='https://www.youtube.com/watch?v=i0p1bmr0EmE' target='_blank'>What is Love? - TWICE</a>
+",2025-03-17 22:19:24.397634
